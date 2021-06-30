@@ -16,3 +16,4 @@ Chỉ thiếu mỗi mình em.`,
     messDesc: 'Em là để ngắm, việc say đắm cứ để anh.',
     btnAccept: 'Okiiiii lun <3',
     messLink: 'http://fb.com' //link mess của các bạn. VD: https://m.me/nam.nodemy
+}
